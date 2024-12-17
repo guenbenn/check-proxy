@@ -9,8 +9,12 @@
 - Bước 4: Sử dụng `python main.py` để chạy tool
 ---
 **📦 Phiên bản**
->Phiên bản mới nhất: **v1.0**
+>Phiên bản mới nhất: **v1.1**
+<details>
+<summary>v1.1 - 17/12/2024</summary>
+  - Cập nhật giao diện, thông tin của proxy (ip thực tế, quốc gia,...) và hỗ trợ thêm nhiều định dạng.
+</details>
 <details>
 <summary>v1.0 - 26/10/2024</summary>
-  - Chia sẻ tool
+  - Chia sẻ tool.
 </details>
