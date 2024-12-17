@@ -3,9 +3,9 @@ import socks
 import socket
 from colorama import Fore, init
 import re
+import os
 import ipaddress
 import time
-import os
 
 init(autoreset=True)
 
