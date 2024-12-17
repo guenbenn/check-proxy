@@ -1,0 +1,5 @@
+protocol://ip:port
+protocol://user:pass@ip:port
+protocol://ip:port@user:pass
+protocol://user:pass:ip:port
+protocol://ip:port:user:pass
